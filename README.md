@@ -57,6 +57,16 @@ The project includes scripts for parsing logs, searching for critical informatio
 
 ---
 
+### 📰 [Python News Scraper](https://github.com/bitsecured/news_scrapper)
+
+- Built a Python-based news scraping project to collect and organize news articles from online sources.
+- Uses Python libraries for feed parsing, HTTP requests, HTML parsing, and data processing.
+- Exports collected articles to CSV for structured storage and analysis.
+
+[View Project →](https://github.com/bitsecured/news_scrapper)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
